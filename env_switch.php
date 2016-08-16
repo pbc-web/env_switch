@@ -1,5 +1,16 @@
 <?php
 
+/*
+Plugin Name: WP Admin Environment Colour Switcher
+Plugin URI:  http://poweredbycoffee.co.uk
+Description: Change The Colour Scheme of wp-admin based on a constant in wp-config
+Version:     1.0
+Author:      John Smith
+Author URI:  http://poweredbycoffee.co.uk
+License:     GPL2
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+*/
+
 
 Class WP_ENV_COLOR_SWITCH{
 	
