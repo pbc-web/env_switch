@@ -4,7 +4,7 @@
 Plugin Name: WP Admin Environment Colour Switcher
 Plugin URI:  http://poweredbycoffee.co.uk
 Description: Change The Colour Scheme of wp-admin based on a constant in wp-config
-Version:     1.0
+Version:     0.1.2
 Author:      John Smith
 Author URI:  http://poweredbycoffee.co.uk
 License:     GPL2
