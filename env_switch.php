@@ -12,7 +12,7 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 */
 
 
-Class WP_ENV_COLOR_SWITCH{
+Class PBC_WP_ENV_COLOR_SWITCH{
 	
 
 	var $env_colours = array(
@@ -61,4 +61,4 @@ Class WP_ENV_COLOR_SWITCH{
 }
 
 
-$wpenv_cs = new WP_ENV_COLOR_SWITCH();
+$wpenv_cs = new PBC_WP_ENV_COLOR_SWITCH();
